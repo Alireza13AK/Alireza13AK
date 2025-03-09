@@ -1,13 +1,11 @@
 
-<!--
-**Al-Natour-Mazen/Al-Natour-Mazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+
 
 
 <h1 align="center">Hi there !  I'm Alireza  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="30px"></h1>
 
 
-* 💬 If you have any tips/advice about game development, do not hesitate to share them with me!
+* 💬 If you have any tips/advice , do not hesitate to share them with me!
 * 💞️ Have fun!
 
 
