@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there !  I'm Alireza  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="30px"></h1>
 
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="200"/>
 
 
 
